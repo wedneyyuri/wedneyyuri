@@ -24,7 +24,7 @@ Whitebook Assist serves thousands of medical professionals, functioning like a r
 <p align="left">
   <a href="https://www.python.org/" target="_blank"> <img src="./assets/icons/python.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://openai.com/" target="_blank"> <img src="./assets/icons/openai.svg" alt="openai" width="40" height="40"/> </a>
-  <a href="https://www.langchain.com/" target="_blank"> <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" alt="langchain" width="100" height="25"/> </a>
+  <a href="https://www.langchain.com/" target="_blank"> <img src="./assets/icons/langchain.svg" alt="langchain" width="40" height="40"/> </a>
   <a href="https://www.elastic.co" target="_blank"> <img src="./assets/icons/elastic.svg" alt="elasticsearch" width="40" height="40"/> </a>
 </p>
 
