@@ -8,29 +8,12 @@
 <p align="left"> <a href="https://twitter.com/wedneyyuri" target="blank"><img src="https://img.shields.io/twitter/follow/wedneyyuri?logo=twitter&style=for-the-badge" alt="wedneyyuri" /></a> </p>
 
 ## About Me
-I have over 10 years of experience in software engineering, specializing in high-performance distributed systems and cloud infrastructure. Currently, I serve as a Tech Manager, leading teams to build scalable platforms that handle massive traffic and business-critical operations. My expertise spans Go, TypeScript, and AWS, with a deep focus on stability, observability, and architectural evolution.
+I have over 10 years of experience in software engineering, specializing in high-performance distributed systems, cloud infrastructure, and **Generative AI**. Currently, I serve as a Tech Manager, leading teams to build scalable platforms and intelligent decision-support tools.
 
-- 💬 Ask me about **Golang, Typescript, AWS, Distributed Systems**
+My recent work includes architecting **Whitebook Assist**, a clinical decision support system powered by **LLMs (OpenAI), LangGraph, and RAG**, serving thousands of medical professionals. My expertise spans Go, Python, TypeScript, and AWS, with a deep focus on stability, observability, and architectural evolution.
+
+- 💬 Ask me about **Golang, Python, Distributed Systems, GenAI**
 - 📄 Know about my experiences [https://www.linkedin.com/in/wedneyyuri/](https://www.linkedin.com/in/wedneyyuri/)
-
-## Featured Projects
-
-### Whitebook Assist (Afya)
-**An intelligent conversational assistant for clinical decision support.**
-
-Whitebook Assist serves thousands of medical professionals, functioning like a reliable "colleague on duty." It combines GenAI with validated medical content to provide safe, real-time answers for diagnosis, treatment, and prescription.
-
-**Stack:**
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"> <img src="./assets/icons/python.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://openai.com/" target="_blank"> <img src="./assets/icons/openai.svg" alt="openai" width="40" height="40"/> </a>
-  <a href="https://www.langchain.com/" target="_blank"> <img src="./assets/icons/langchain.svg" alt="langchain" width="40" height="40"/> </a>
-  <a href="https://www.elastic.co" target="_blank"> <img src="./assets/icons/elastic.svg" alt="elasticsearch" width="40" height="40"/> </a>
-</p>
-
-*Built with Python, OpenAI, LangGraph, and Elasticsearch (RAG).*
-
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,6 +26,7 @@ Whitebook Assist serves thousands of medical professionals, functioning like a r
 #### Languages
 <p align="left">
   <a href="https://golang.org" target="_blank"> <img src="./assets/icons/go.svg" alt="go" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="./assets/icons/python.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./assets/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./assets/icons/typescript.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.rust-lang.org" target="_blank"> <img src="./assets/icons/rust.svg" alt="rust" width="40" height="40"/> </a>
@@ -61,6 +45,8 @@ Whitebook Assist serves thousands of medical professionals, functioning like a r
 
 #### Tools & Frameworks
 <p align="left">
+  <a href="https://openai.com/" target="_blank"> <img src="./assets/icons/openai.svg" alt="openai" width="40" height="40"/> </a>
+  <a href="https://www.langchain.com/" target="_blank"> <img src="./assets/icons/langchain.svg" alt="langchain" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="./assets/icons/express.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="./assets/icons/nextjs.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="./assets/icons/nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
